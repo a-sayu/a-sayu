@@ -11,12 +11,18 @@ Atualmente, estou focada nos estudos de Ciência da Computação. Tenho afinidad
 - Python, que admiro pela sua simplicidade e versatilidade.
 
 ## 🎯 Objetivos
-No meu dia a dia, valorizo o desenvolvimento pessoal, a qualidade no que faço e a curiosidade constante. Estou em busca de uma oportunidade de estágio onde eu possa realmente colocar a mão no código, participar de projetos reais e crescer profissionalmente.
+Em busca de uma oportunidade de estágio onde eu possa aplicar meus conhecimentos em código, participar de projetos reais e crescer profissionalmente. Tenho como valores pessoas:
+- Desenvolvimento pessoal;
+- Qualidade no que faço; e
+- Curiosidade ativa.
 
 ## 💜 Background
 Meu interesse por tecnologia começou com meu gosto por jogos, computadores e uma curiosidade natural em entender como as coisas funcionam, além de uma facilidade com matemática. No ensino médio, segui inicialmente para a área de administração, mas logo surgiu a oportunidade de cursar um técnico em Redes de Computadores à noite e foi aí que encontrei o meu caminho.
 
-Fora da área técnica, sou apaixonada por gatos, gosto investigar o "porquê" das coisas e tenho um interesse por psicologia e comportamento humano.
+Fora da área técnica:
+- Apaixonada por gatos
+- Investigar o "porquê" das coisas
+- Interesse por psicologia.
 
 ## 📊 Estatísticas do GitHub
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=a-sayu&show_icons=true&rank_icon=percentile&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
