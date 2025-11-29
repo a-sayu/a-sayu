@@ -25,14 +25,14 @@ Fora da área técnica:
 - Interesse por psicologia.
 
 ## 📊 Estatísticas do GitHub
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-theta-woad-99.vercel.app/api?username=a-sayu&show_icons=true&rank_icon=percentile&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-theta-woad-99.vercel.app/api?username=a-sayu&show_icons=true&rank_icon=percentile&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats-theta-woad-99.vercel.app/api/top-langs/?username=a-sayu&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-theta-woad-99.vercel.app/api/top-langs/?username=a-sayu&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-theta-woad-99.vercel.app/api?username=a-sayu&show_icons=true&rank_icon=percentile&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/a-sayu/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-theta-woad-99.vercel.app/api?username=a-sayu&show_icons=true&rank_icon=percentile&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/a-sayu/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-theta-woad-99.vercel.app/api/top-langs/?username=a-sayu&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/a-sayu/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-theta-woad-99.vercel.app/api/top-langs/?username=a-sayu&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/a-sayu/github-readme-stats#gh-light-mode-only)
 
 ## ⏱️ Estatísticas WakaTime *(🚧 em construção!)*
-[![Harlok's WakaTime stats](https://github-readme-stats-theta-woad-99.vercel.app/api/wakatime?username=a_sayu&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Harlok's WakaTime stats](https://github-readme-stats-theta-woad-99.vercel.app/api/wakatime?username=a_sayu&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Harlok's WakaTime stats](https://github-readme-stats-theta-woad-99.vercel.app/api/wakatime?username=a_sayu&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/a-sayu/github-readme-stats#gh-dark-mode-only)
+[![Harlok's WakaTime stats](https://github-readme-stats-theta-woad-99.vercel.app/api/wakatime?username=a_sayu&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/a-sayu/github-readme-stats#gh-light-mode-only)
 
 <!--
 **a-sayu/a-sayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
